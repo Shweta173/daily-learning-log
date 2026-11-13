@@ -13,3 +13,4 @@ Each note has: the concept in plain words, an example, code, time/space complexi
 | Day | Date | Topic |
 |-----|------|-------|
 | 1 | 2026-11-12 | [Arrays & Big-O basics](2026-11/2026-11-12-arrays-and-big-o.md) |
+| 2 | 2026-11-13 | [Prefix sums](2026-11/2026-11-13-prefix-sums.md) |

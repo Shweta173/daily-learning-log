@@ -18,3 +18,4 @@ Each note has: the concept in plain words, an example, code, time/space complexi
 | 4 | 2026-11-15 | [Sliding window](2026-11/2026-11-15-sliding-window.md) |
 | 5 | 2026-11-16 | [Hashing](2026-11/2026-11-16-hashing.md) |
 | 6 | 2026-11-17 | [Strings](2026-11/2026-11-17-strings.md) |
+| 7 | 2026-11-18 | [Sorting basics](2026-11/2026-11-18-sorting-basics.md) |

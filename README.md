@@ -19,3 +19,4 @@ Each note has: the concept in plain words, an example, code, time/space complexi
 | 5 | 2026-11-16 | [Hashing](2026-11/2026-11-16-hashing.md) |
 | 6 | 2026-11-17 | [Strings](2026-11/2026-11-17-strings.md) |
 | 7 | 2026-11-18 | [Sorting basics](2026-11/2026-11-18-sorting-basics.md) |
+| 8 | 2026-11-19 | [Binary search](2026-11/2026-11-19-binary-search.md) |

@@ -21,3 +21,4 @@ Each note has: the concept in plain words, an example, code, time/space complexi
 | 7 | 2026-11-18 | [Sorting basics](2026-11/2026-11-18-sorting-basics.md) |
 | 8 | 2026-11-19 | [Binary search](2026-11/2026-11-19-binary-search.md) |
 | 9 | 2026-11-20 | [Recursion](2026-11/2026-11-20-recursion.md) |
+| 10 | 2026-11-23 | [Linked lists](2026-11/2026-11-23-linked-lists.md) |

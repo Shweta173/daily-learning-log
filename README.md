@@ -24,3 +24,4 @@ Each note has: the concept in plain words, an example, code, time/space complexi
 | 10 | 2026-11-23 | [Linked lists](2026-11/2026-11-23-linked-lists.md) |
 | 11 | 2026-11-24 | [Stacks](2026-11/2026-11-24-stacks.md) |
 | 12 | 2026-11-25 | [Queues & deques](2026-11/2026-11-25-queues-and-deques.md) |
+| 13 | 2026-11-26 | [Monotonic stack](2026-11/2026-11-26-monotonic-stack.md) |

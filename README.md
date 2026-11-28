@@ -26,3 +26,4 @@ Each note has: the concept in plain words, an example, code, time/space complexi
 | 12 | 2026-11-25 | [Queues & deques](2026-11/2026-11-25-queues-and-deques.md) |
 | 13 | 2026-11-26 | [Monotonic stack](2026-11/2026-11-26-monotonic-stack.md) |
 | 14 | 2026-11-27 | [Trees & traversals](2026-11/2026-11-27-trees-and-traversals.md) |
+| 15 | 2026-11-28 | [Binary search trees](2026-11/2026-11-28-binary-search-trees.md) |
